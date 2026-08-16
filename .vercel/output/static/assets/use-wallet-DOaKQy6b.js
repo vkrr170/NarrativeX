@@ -1,0 +1,1 @@
+throw Error(`Could not resolve "@blockshake/defly-connect" imported by "@txnlab/use-wallet". Is it installed?`);
